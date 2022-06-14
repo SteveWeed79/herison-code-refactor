@@ -2,17 +2,15 @@
 
 ## Description
 
-Improved search engine optimazation and improved accessibility for all viewers.  Streamlined HTML for readabiltiy and structure.  
-
+Improved search engine optimization and improved accessibility for all viewers.  Streamlined HTML for readability and structure.  
 
 ## Usage
 
 This website is now accessible to all viewers including screen readers.
 
-
 ## Credits
 
-Horisen Soical Solution Services
+Horisen Social Solution Services
 
 KU Coding Bootcamp (Henry and Chris)
 
@@ -20,6 +18,7 @@ W3schools "HTML Semantic Elements" site
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
+
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
